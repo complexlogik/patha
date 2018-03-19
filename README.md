@@ -1,0 +1,3 @@
+Simple mock one page website for a fictional paper company
+what does a paper company actually do?!!?!?
+find out next time on....
