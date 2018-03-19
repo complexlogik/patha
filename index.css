@@ -1,0 +1,19 @@
+/* .flexContainer {
+  display: flex;
+  align-content: space-around;
+
+} */
+
+#companyName {
+  display: inline-flex;
+  align-self: right;
+  align-content: stretch;
+  font-size: 50px;
+}
+
+#hamburgerNav {
+  display: inline-flex;
+  align-self: left;
+  max-height: 45px;
+  max-width: 45px;
+}
