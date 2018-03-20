@@ -3,14 +3,18 @@
   align-content: space-around;
 
 } */
-
+body {
+  background-color: #fff;
+}
 #companyName {
  text-align: center;
   font-size: 50px;
   color: rgba(255,255,255,1);
-  background-color: rgba(0,0,0,0.5);
-  margin: -10px -10px 20px -10px;
+  background-color: rgba(0,0,0,0.75);
+  margin: -10px -10px 50px -10px;
 }
+
+
 /*
 #hamburgerNav {
   display: inline-flex;
