@@ -60,6 +60,47 @@ body {
   min-height: 500px;
   border: 3px solid black;
 }
+
+#imageHolder1stBigImage {
+  display: inline-flex;
+  background-image: url('paperdesign.jpg');
+  background-size: cover;
+  border: 3px solid black;
+  min-width: 29%;
+  min-height: 400px;
+  margin: 5px 5px 5px 5px;
+}
+
+#imageHolder1stSmallImage {
+  display: inline-flex;
+  background-image: url('limitlespaper.jpg');
+  background-size: cover;
+  border: 3px solid black;
+  min-width: 18%;
+  min-height: 200px;
+  margin: 5px 5px 5px 5px;
+}
+
+#imageHolder2ndSmallImage {
+  display: inline-flex;
+  background-image: url('blankslate.jpg');
+  background-size: cover;
+  border: 3px solid black;
+  min-width: 18%;
+  min-height: 200px;
+  margin: 5px 5px 5px 5px;
+}
+
+#imageHolder2ndBigImage {
+  display: inline-flex;
+  background-image: url('colorspop.jpg');
+  background-size: cover;
+  border: 3px solid black;
+  min-width: 29%;
+  min-height: 400px;
+  margin: 5px 5px 5px 5px;
+}
+
 /*
 #hamburgerNav {
   display: inline-flex;
