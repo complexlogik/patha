@@ -11,12 +11,13 @@ body {
 .companyName {
   background-image: url('oldPaper.jpg');
   text-align: center;
-  font-size: 50px;
+  font-size: 45px;
   color: rgba(0,0,0,1);
   border-bottom: 3px solid black;
+  border-top: 4px solid black;
   margin: -10px -10px 50px -10px;
-  margin-left: -10px;
-  max-height: 75px;
+  max-height: 60px;
+
 }
 
 /* 1st set of text */
