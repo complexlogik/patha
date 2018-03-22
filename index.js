@@ -2,6 +2,6 @@
 //scroll to bottom
 
 
-document.getElementById("scrollToBottom").addEventListener("click",(event)  => {
-  document.body.scrollIntoView(false);
+document.getElementById("scrollToBottom").addEventListener("onClick",(event)  => {
+  document.body.scrollIntoView(true);
 };
