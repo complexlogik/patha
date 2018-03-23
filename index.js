@@ -1,7 +1,12 @@
 
-//scroll to bottom
+//scroll to top
 
+window.onscroll = function() {scrollFunction()};
 
-document.getElementById("scrollToBottom").addEventListener("onClick",(event)  => {
-  document.body.scrollIntoView(true);
-};
+function scrollFunction() {
+        document.getElementById('scrollToTop');
+}
+
+function topFunction() {
+    document.documentElement.scrollTop = 0;
+}
